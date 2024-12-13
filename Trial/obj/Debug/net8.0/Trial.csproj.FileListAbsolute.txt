@@ -1,0 +1,15 @@
+/root/programming-Csharp/Trial/bin/Debug/net8.0/Trial
+/root/programming-Csharp/Trial/bin/Debug/net8.0/Trial.deps.json
+/root/programming-Csharp/Trial/bin/Debug/net8.0/Trial.runtimeconfig.json
+/root/programming-Csharp/Trial/bin/Debug/net8.0/Trial.dll
+/root/programming-Csharp/Trial/bin/Debug/net8.0/Trial.pdb
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.GeneratedMSBuildEditorConfig.editorconfig
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.AssemblyInfoInputs.cache
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.AssemblyInfo.cs
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.csproj.CoreCompileInputs.cache
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.sourcelink.json
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.dll
+/root/programming-Csharp/Trial/obj/Debug/net8.0/refint/Trial.dll
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.pdb
+/root/programming-Csharp/Trial/obj/Debug/net8.0/Trial.genruntimeconfig.cache
+/root/programming-Csharp/Trial/obj/Debug/net8.0/ref/Trial.dll
